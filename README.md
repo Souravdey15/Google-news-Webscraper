@@ -1,4 +1,4 @@
-http://hjaafar.pythonanywhere.com (offline)
+
 
 # Google News Webscraper 
 
@@ -15,11 +15,6 @@ Flask
 
 ### Installing
 
-Clone or download the repository.
-
-```
-git clone https://github.com/HamzehJaafar/googlenews-scraper.git
-```
 
 Run the application
 
